@@ -1,0 +1,41 @@
+record_id,year,province_code,total_deaths,reporting_source
+A0,2019,Manitoba,145939.0,SystemB
+A1,2022,BC,89512.0,SystemB
+A2,2020,Ontario,56921.0,SystemA
+A3,2021,Alberta,52496.0,SystemA
+A4,2022,Quebec,140535.0,SystemB
+A5,2022,QC,146766.0,SystemB
+A6,2019,man,139141.0,SystemA
+A7,2022,Manitoba,96522.0,SystemB
+A8,2020,Quebec,110535.0,SystemA
+A9,2021,AB,69340.0,SystemA
+A10,2021,AB,112079.0,SystemA
+A11,2019,MB,94259.0,SystemB
+A12,2020,Ontario,100624.0,SystemA
+A13,2021,Ontario,140928.0,SystemA
+A14,2019,British Columbia,,SystemA
+A15,2022,b.c.,111570.0,SystemA
+A16,2022,alta,64254.0,SystemB
+A17,2020,b.c.,106356.0,SystemB
+A18,2022,ont,120838.0,SystemB
+A19,2019,BC,129128.0,SystemB
+A20,2019,British Columbia,118627.0,SystemA
+A21,2019,BC,57997.0,SystemA
+A22,2022,Alberta,119069.0,SystemB
+A23,2019,ON,149438.0,SystemA
+A24,2020,qc,85489.0,SystemA
+A25,2021,Alberta,124253.0,SystemA
+A26,2019,qc,,SystemB
+A27,2022,Quebec,65741.0,SystemA
+A28,2019,alta,121382.0,SystemB
+A29,2022,AB,83930.0,SystemB
+A30,2021,MB,84009.0,SystemB
+A31,2020,Manitoba,,SystemB
+A32,2021,alta,125523.0,SystemA
+A33,2022,Alberta,93349.0,SystemA
+A34,2020,BC,,SystemB
+A35,2021,British Columbia,98208.0,SystemB
+A36,2019,Quebec,118955.0,SystemA
+A37,2022,Ontario,130675.0,SystemB
+A38,2021,Quebec,130212.0,SystemB
+A39,2020,MB,143807.0,SystemB
